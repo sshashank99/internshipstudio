@@ -115,12 +115,12 @@ section {
 .skills {
   background-image: url('skill.png');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 .skills .inner {
   background-color: rgba(0,0,0,0.7);
-  padding: 50px;
+  padding: 100px;
   color: #fff;
 }
 
