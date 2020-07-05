@@ -46,7 +46,7 @@ section {
 }
 
 .about {
-  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fevendots.com.au%2Fwp-content%2Fuploads%2F2017%2F07%2Fabout-background-img-1-1.jpg&imgrefurl=https%3A%2F%2Fevendots.com.au%2Fabout-background-img-1-2%2F&tbnid=piQwsl6z-lEzdM&vet=12ahUKEwitu6-_-bXqAhXN03MBHTzgC84QMygBegUIARDAAQ..i&docid=bK6b7YUVDFd_AM&w=1920&h=1100&q=about%20background&ved=2ahUKEwitu6-_-bXqAhXN03MBHTzgC84QMygBegUIARDAAQ');
+  background-image: url('about.jpg');
   display: table;
   height: 100vh;
   width: 100%;
@@ -113,7 +113,7 @@ section {
 }
 
 .skills {
-  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn1.vectorstock.com%2Fi%2F1000x1000%2F03%2F35%2Fskills-personal-development-web-banner-abstract-vector-20210335.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fskills-personal-development-web-banner-abstract-vector-20210335&tbnid=IolI-p3AuGxO3M&vet=12ahUKEwjkooHv-bXqAhW5zHMBHVGrACEQMygBegUIARCxAQ..i&docid=s_uLwsGr3U8l3M&w=1000&h=780&q=skills%20banner&ved=2ahUKEwjkooHv-bXqAhW5zHMBHVGrACEQMygBegUIARCxAQ');
+  background-image: url('skills.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
