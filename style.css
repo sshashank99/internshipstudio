@@ -112,12 +112,6 @@ section {
   padding: 50px;
 }
 
-.skills {
-  background-image: url('skill.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .skills .inner {
   background-color: rgb(0,0,0);
   padding: 100px;
