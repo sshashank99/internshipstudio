@@ -46,7 +46,7 @@ section {
 }
 
 .about {
-  background-image: url('about.jpg');
+  background-image: url('about.png');
   display: table;
   height: 100vh;
   width: 100%;
@@ -113,7 +113,7 @@ section {
 }
 
 .skills {
-  background-image: url('skills.jpg');
+  background-image: url('skill.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
