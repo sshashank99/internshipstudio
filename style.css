@@ -1,0 +1,138 @@
+body {
+  margin: 0px auto;
+  width: 100%;
+}
+
+nav ul li {
+   list-style-type:none;
+   float: left;
+   padding-right: 2.5em;
+   color: #eff3c6; 
+}
+
+nav ul {
+  float: right;
+}
+
+nav {
+  width: 90% auto;
+  height: 50px;
+  background-color: #0779e4;
+}
+
+section {
+  background-color: #4cbbb9;
+}
+
+.home {
+  background-color: #77d8d8;
+  text-align: center;
+  font-size: 48px;
+  color: #ffffff;
+  display: table;
+  height: 100vh;
+  width: 100%;
+}
+
+.inner {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.home .inner img {
+  border-radius: 100%;
+  width: 250px;
+  height: auto;
+}
+
+.about {
+  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fevendots.com.au%2Fwp-content%2Fuploads%2F2017%2F07%2Fabout-background-img-1-1.jpg&imgrefurl=https%3A%2F%2Fevendots.com.au%2Fabout-background-img-1-2%2F&tbnid=piQwsl6z-lEzdM&vet=12ahUKEwitu6-_-bXqAhXN03MBHTzgC84QMygBegUIARDAAQ..i&docid=bK6b7YUVDFd_AM&w=1920&h=1100&q=about%20background&ved=2ahUKEwitu6-_-bXqAhXN03MBHTzgC84QMygBegUIARDAAQ');
+  display: table;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.about .inner {
+  display: table-cell;
+  vertical-align: middle;
+  width: 50%;
+  float: left;
+  padding-top: 75px;
+  padding-left: 50px;
+}
+
+.about inner h1 {
+  font-size: 42px;
+}
+
+.about .inner p {
+  font-size: 28px;
+}
+
+.education {
+  background-color: #fff;
+  display: table;
+  width: 100%;
+}
+
+.education .inner {
+  padding: 50px;
+}
+
+.education h1, .hobbies h1, .skills h1, .contact h1 {
+  font-size: 42px;
+}
+
+.education .inner div, .hobbies .inner div, .skills .inner div {
+  width: 30%;
+  margin-left: 5px;
+  margin-right: 5px;
+  float: left;
+  text-align: center;
+}
+
+.education .inner div p, .hobbies .inner div p, .skills .inner div ul li, .contact .inner p {
+  font-size: 26px;
+}
+
+.education .inner div img, .hobbies .inner div img{
+  width: 100px;
+  height: auto;
+}
+
+.hobbies .skills, .contact{
+  display: table;
+  height: 100vh;
+  width: 100%;
+}
+
+.hobbies .inner, .contact .inner {
+  padding: 50px;
+}
+
+.skills {
+  background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn1.vectorstock.com%2Fi%2F1000x1000%2F03%2F35%2Fskills-personal-development-web-banner-abstract-vector-20210335.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fskills-personal-development-web-banner-abstract-vector-20210335&tbnid=IolI-p3AuGxO3M&vet=12ahUKEwjkooHv-bXqAhW5zHMBHVGrACEQMygBegUIARCxAQ..i&docid=s_uLwsGr3U8l3M&w=1000&h=780&q=skills%20banner&ved=2ahUKEwjkooHv-bXqAhW5zHMBHVGrACEQMygBegUIARCxAQ');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.skills .inner {
+  background-color: rgba(0,0,0,0.7);
+  padding: 50px;
+  color: #fff;
+}
+
+.skills .inner div ul li {
+  list-style-type: none;
+}
+
+.skills .inner div ul li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.contact .inner{
+  text-align: center;
+}
